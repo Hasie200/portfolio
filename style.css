@@ -656,6 +656,13 @@ nav ul i{
 
    /* INTRODUCTION TO ME  */
 
+  .sub-title{
+    font-size: 50px;
+    font-family:'Popins';
+    font-weight: 500;
+    color: white;
+  }
+  
   .first-section {
     display: flex;
     flex-direction: column;
