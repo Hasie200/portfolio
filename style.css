@@ -714,7 +714,12 @@ nav ul i{
       margin: 0 0 60px 0 ;
     }
     
-    
+    .btn-3{
+      font-size: 18px;
+      font-family:'Popins';
+      font-weight: 500;
+      color: white;
+    }
     
     .btn{
     background: transparent;
