@@ -657,11 +657,12 @@ nav ul i{
    /* INTRODUCTION TO ME  */
 
     .sub-title{
-    font-size: 35px;
-    font-family:'Poppins';
-    font-weight: 600;
+    font-size: 50px;
+    font-family:'Popins';
+    font-weight: 500;
     color: white;
-  }
+    }
+  
   .first-section {
     display: flex;
     flex-direction: column;
@@ -705,7 +706,7 @@ nav ul i{
     
     .description h1{
       margin: 0 0 60px 0 ;
-      font-family:'Poppins';
+      font-family:'Popins';
       font-weight: 600;
       color: white;
       
@@ -715,13 +716,13 @@ nav ul i{
     .description h2{
       margin: 0 0 60px 0 ;
       font-family:'Poppins';
-      font-weight: 500;
+      font-weight: 400;
       color: white;
       
     }
     
     .btn-3{
-      font-size: 18px;
+      font-size: 15px;
       font-family:'Poppins';
       font-weight: 500;
       color: white;
@@ -832,7 +833,7 @@ nav ul i{
 .layer h3{
       
         font-size: 25px;
-        font-family:'Poppins';
+        font-family:'Popins';
         font-weight: 600;
         color: white;
         margin: 30px;
