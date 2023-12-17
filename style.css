@@ -635,7 +635,7 @@ nav ul i{
     background: #ff004f;
     position: fixed;
     top: 0;
-    right: 0px;
+    right: -200px;
     width: 200px;
     padding-top: 50px;
     z-index: 2;
