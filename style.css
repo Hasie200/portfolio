@@ -785,6 +785,11 @@ nav ul i{
     .about-col-2{
      font-size: 14px;
     }
+
+   .about-col-2 h1 {
+      margin-bottom: 10px;
+    }
+
     
     .tab-names{
      font-size: 16px;
