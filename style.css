@@ -666,29 +666,35 @@ nav ul i{
 
     }
     
+   
   .description{
       margin-left: 10px;
       flex-basis: 55%;
       text-align: center;
       position: relative;
+      top: 100px;
+
+    }
+   
+  
+    .animate-description{
       animation-name: description;
       animation-duration: 2s;
-      animation-fill-mode: forwards;
-      position: relative;
-      top: 70px;
-
+      animation-fill-mode:forwards;
+      
     }
     
     @keyframes description {
       0%{
        transform: translateX(-100%);
+       
       }
     
       100%{
        transform: translateX(0%);
+       
       }
     }
-    
     
     
     .description h1{
