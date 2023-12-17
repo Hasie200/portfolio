@@ -640,7 +640,7 @@ nav ul i{
     width: 200px;
     padding-top: 50px;
     z-index: 2;
-    transition: right 0.5S;
+    transition: right 0.4S;
     
     
   }
@@ -720,6 +720,8 @@ nav ul i{
       font-weight: 500;
       color: white;
     }
+
+  
     
     .btn{
     background: transparent;
@@ -820,7 +822,15 @@ nav ul i{
 .work{
   margin: auto 20px;
 }
-
+  
+.layer h3{
+      
+        font-size: 25px;
+        font-family:'Popins';
+        font-weight: 500;
+        color: white;
+      
+    }
 
 .contact-left{
   color: white;
