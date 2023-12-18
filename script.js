@@ -57,10 +57,7 @@ const observernew = new IntersectionObserver(entries =>{
   entries.forEach( entry =>{
     
     const about = entry.target;
-
-    console.log(about);
-    
-
+  
     if(entry.isIntersecting){
      about.classList.add('animate-description');
     }
