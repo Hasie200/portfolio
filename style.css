@@ -726,8 +726,18 @@ nav ul i{
       font-family:'Poppins';
       font-weight: 500;
       color: white;
+      align-self: center;
+      
     }
-
+  
+    .contact-right, form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+    }
+  
   
     
     .btn{
