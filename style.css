@@ -731,15 +731,6 @@ nav ul i{
       
     }
   
-    .contact-right, form{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 1em;
-    }
-  
-  
     
     .btn{
     background: transparent;
